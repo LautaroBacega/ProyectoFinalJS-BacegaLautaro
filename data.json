@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1, 
+        "nombre": "Reloj Carex",
+        "tipo": "Automatico", 
+        "precio": 200, 
+        "stock": 10, 
+        "descuento1": "-5%", 
+        "descuento2": 185 , 
+        "img": "./IMG/Carex_SuperFlat_3.jpg"
+    },
+    {
+        "id": 2, 
+        "nombre": "Reloj Casio Quartz", 
+        "tipo": "Automatico", 
+        "precio": 189, 
+        "stock": 10, 
+        "descuento1": "-15%", 
+        "descuento2": 159 , 
+        "img": "./IMG/Casio_Quartz_Water_Resist_4.jpg"
+    },
+    {
+        "id": 3, 
+        "nombre": "Reloj Citizen", 
+        "tipo": "Automatico", 
+        "precio": 169, 
+        "stock": 10, 
+        "descuento1": "-10%", 
+        "descuento2": 139 , 
+        "img": "./IMG/Citizen_17_Rubis_Acero_4.jpg"
+    },
+    {
+        "id": 4, 
+        "nombre": "Reloj Gladiador", 
+        "tipo": "Cuerda", 
+        "precio": 200, 
+        "stock": 10, 
+        "descuento1": "-20%", 
+        "descuento2": 185 , 
+        "img": "./IMG/Gladiador_Calendario_17_Rubis_Enchapado_4.jpg"
+    },
+    {
+        "id": 5, 
+        "nombre": "Reloj Milus", 
+        "tipo": "Cuerda", 
+        "precio": 200, 
+        "stock": 10, 
+        "descuento1": "-5%", 
+        "descuento2": 185 , 
+        "img": "./IMG/Milus_Acero_17_Rubis_Segundero_3.jpg"
+    },
+    {
+        "id": 6, 
+        "nombre": "Reloj Nivada", 
+        "tipo": "Cuerda", 
+        "precio": 219, 
+        "stock": 10, 
+        "descuento1": "-5%", 
+        "descuento2": 179 , 
+        "img": "./IMG/Nivada_Aquamatic_21_Rubis_1.jpg"
+    }
+]
